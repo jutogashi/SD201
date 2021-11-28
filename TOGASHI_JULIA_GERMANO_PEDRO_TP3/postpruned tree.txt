@@ -1,0 +1,85 @@
+Root
+Level 0
+Feature Sex  0
+Gini 0.4723650263627057
+
+Intermediate
+Level 1
+Feature Pclass  1 2
+Gini 0.384430473372781
+*****
+Leaf
+Level 1
+Class 0
+Gini 0.3064437162277842
+
+Intermediate
+Level 2
+Feature Embarked  0 1
+Gini 0.10140306122448985
+*****
+Intermediate
+Level 2
+Feature Embarked  0 1
+Gini 0.5
+
+Intermediate
+Level 3
+Feature Pclass  1
+Gini 0.03702385190459241
+*****
+Intermediate
+Level 3
+Feature Pclass  1
+Gini 0.12945179584120986
+*****
+Intermediate
+Level 3
+Feature Embarked  0
+Gini 0.4228316326530613
+*****
+Leaf
+Level 3
+Class 0
+Gini 0.46875
+
+Intermediate
+Level 4
+Feature Embarked  0
+Gini 0.04442148760330576
+*****
+Leaf
+Level 4
+Class 1
+Gini 0
+*****
+Leaf
+Level 4
+Class 1
+Gini 0.079861111111111
+*****
+Leaf
+Level 4
+Class 1
+Gini 0.16306527066161736
+*****
+Leaf
+Level 4
+Class 1
+Gini 0.4536862003780718
+*****
+Leaf
+Level 4
+Class 1
+Gini 0.39669421487603307
+
+Leaf
+Level 5
+Class 1
+Gini 0.045429962141698275
+*****
+Leaf
+Level 5
+Class 1
+Gini 0
+
